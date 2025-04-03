@@ -19,15 +19,6 @@ The goal was to simulate user interactions with the contact form and validate it
 
 ---
 
-## Tools & Technologies
-
-- **Cypress** for end-to-end automation.
-- **JavaScript (ES6)**.
-- Fixed viewport set to **1920x1080** to simulate desktop behavior.
-- Centralized locators for cleaner and more maintainable code.
-
----
-
 ## How to Run the Tests
 
 1. Clone the repository:
