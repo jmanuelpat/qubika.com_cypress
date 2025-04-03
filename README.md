@@ -33,7 +33,7 @@ The goal was to simulate user interactions with the contact form and validate it
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qubika.com_cypress.git
+git clone https://github.com/jmanuelpat/qubika.com_cypress.git
 cd qubika.com_cypress
 ```
 
